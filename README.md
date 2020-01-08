@@ -1,2 +1,2 @@
-# TNM048-UFO_Sightings_Project
+# TNM048 Visualization of US Real estate data.
 A project in the course TNM048
